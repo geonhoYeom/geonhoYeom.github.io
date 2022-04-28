@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Geonho"
+  name             : "GeonHo Yeom"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "누구나 알 수 있는 코딩하기"
+  bio              : "개발자"
   location         : "Seoul, South Korea"
-  email            : "ghyeom95@gmail.com"
+  email            : ""
   github           : "geonhoYeom.github.io"
   links:
     - label: "Email"
